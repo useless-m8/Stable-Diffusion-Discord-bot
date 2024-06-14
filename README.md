@@ -7,5 +7,5 @@ generate [your prompt] <br/>
 <img src = "./example.png" alt = "example">
 
 ## Functionality
-The bot has a working queue, so you can feed it multiple prompts at the same time. When ready, they will all be sent in the respective order. <br/>
+The bot has a working queue, so you can feed it multiple prompts at the same time. When ready, the images will all be sent in the respective order. <br/>
 To change width, height, sampler or steps refer to "parameters.json" in the root folder.
