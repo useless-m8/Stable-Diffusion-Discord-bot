@@ -3,7 +3,7 @@ Python bot used for generating images via a discord chat. Made possible with Sta
 ## Commands
 generate [your prompt] <br/>
 
-### Successful response by a bot:
+### Successful response by bot:
 <img src = "./example.png" alt = "example">
 
 ## Functionality
